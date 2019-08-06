@@ -1,0 +1,25 @@
+Additional Changes to make:
+
+Data Prep: 
+1.) Change datetime to month & Year columns; enables filter (or fix someother way)
+
+Data Exploration: 
+1.) Jupiter Notebook exploring data
+
+Modelling: 
+1.) Predictive 
+
+Visualisation: 
+1.) Create Dash Plotly Interactive Dashboard
+2.) Deploy with heroku (Free)
+
+
+
+Sharing:
+Create data science blog post - first data science project!
+
+
+
+Sources / References:
+https://www.kaggle.com/rounakbanik/ted-data-analysis
+https://www.kaggle.com/rounakbanik/ted-talks/kernels
